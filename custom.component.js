@@ -13,7 +13,6 @@ template.innerHTML = /*template*/ `
   ${style}
   <h1>
     Custom Web Component
-    <h1></h1>
   </h1>
 `;
 
